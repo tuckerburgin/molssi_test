@@ -1,4 +1,5 @@
 Hydrogen
+ Atomic Mass: 1.008
 Helium
 Lithium
 Beryllium
