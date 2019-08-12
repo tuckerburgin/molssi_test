@@ -1,16 +1,31 @@
 Hydrogen
+ Atomic Number: 1
  Atomic Mass: 1.008
 Helium
+ Atomic Number: 2
 Lithium
+ Atomic Number: 3
 Beryllium
+ Atomic Number: 4
 Boron
+ Atomic Number: 5
 Carbon
+ Atomic Number: 6
 Nitrogen
+ Atomic Number: 7
 Oxygen
+ Atomic Number: 8
 Fluorine
+ Atomic Number: 9
 Neon
+ Atomic Number: 10
 Sodium
+ Atomic Number: 11
 Magnesium
+ Atomic Number: 12
 Aluminum
+ Atomic Number: 13
 Silicon
+ Atomic Number: 14
 Phosphorus
+ Atomic Number: 15
